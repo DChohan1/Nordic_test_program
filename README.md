@@ -14,11 +14,7 @@ Generates diligence questions
 Provides an initial Pass / Watch / Priority recommendation
 
 ## Technology Stack
-Python
-Streamlit
-Google Gemini API
-BeautifulSoup
-Requests
+Python, Streamlit, Google Gemini API, BeautifulSoup, Requests
 
 ## Why I Built It
 
