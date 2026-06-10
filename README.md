@@ -23,5 +23,5 @@ The objective was not to automate investment decisions, but to explore how AI co
 
 ## Future Development
 If I could develop this further, I would add the following features:
-  - Allow the upload of CIM's so the agent can extract information from there to aid faster decision making
-  - Add an safety feature which ensures consistency in output format and validates outputs, definitley by checking the output, and perhaps by running 2 agents side by side or asking for sources for every output by the LLM
+  - Allow the upload of CIM's and other financial documents so the agent can extract information from there to aid decision making
+  - Add features which ensures consistency in output format and validates outputs
