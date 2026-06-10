@@ -6,12 +6,12 @@ This project is a simple prototype exploring how AI could support an initial pri
 The tool takes a company's public website, alongside any extra information, and generates a structured investment screening memo.
 
 ## Features
-Scrapes public company website information
-Generates a structured screening memo
-Summarises the business model and market
-Identifies potential investment merits and risks
-Generates diligence questions
-Provides an initial Pass / Watch / Priority recommendation
+- Scrapes public company website information
+- Generates a structured screening memo
+- Summarises the business model and market
+- Identifies potential investment merits and risks
+- Generates diligence questions
+- Provides an initial Pass / Watch / Priority recommendation
 
 ## Technology Stack
 Python, Streamlit, Google Gemini API, BeautifulSoup, Requests
